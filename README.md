@@ -21,6 +21,8 @@ If you've received a message from Shypd on GitHub, email, or any other platform 
 
 Shypd is being built for AI tool builders, with a goal to help them reach as many users as possible. If you're a builder, your tool already has a page on Shypd — and it's about to get a lot more powerful.
 
+**Built an AI tool?** Submit your AI tool on Shypd right now to immediately get your tool displayed and recommended to top AI search engines and thousands of AI tool explorers.
+
 ---
 
 **New features coming soon for claimed tools:**

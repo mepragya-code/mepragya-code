@@ -4,6 +4,8 @@ We're mapping the AI ecosystem and indexing it all on [Shypd](https://shypd.ai).
 
 **82,000+ AI tools indexed.** Crawled by AI bots — GPT, Perplexity, Claude, Meta, Google, Bing, Apple, and Amazon — over **1.81 million times** since our inception on March 3, 2026.
 
+Every tool page on Shypd is built to be **AEO/GEO optimized** — structured for AI engines to read, understand, and recommend. LLM Cards, FAQs, structured metadata, and the Shypd Confidence Score make every listing machine-readable by design. We can safely say that **Shypd is the easiest way for AI tools to get discovered and recommended by AI bots.**
+
 ---
 
 **Got a ping from us?**
